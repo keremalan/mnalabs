@@ -155,7 +155,7 @@ button {
 }
 
 .lab-summary {
-    background-image: url(/assets/images/login-summary.png);
+    background-image: url('https://www.upload.ee/image/13908289/login-summary.png');
     background-size: cover;
     padding: 5vh 5vw;
     display: flex;
